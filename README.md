@@ -1,5 +1,5 @@
 **Spring Boot Category and Product Management API**
-This project is a Spring Boot-based REST API that provides CRUD (Create, Read, Update, Delete) operations for managing Categories and Products. It uses Spring Boot, JPA (Hibernate), and MySQL/PostgreSQL as the database.
+This project is a Spring Boot-based REST API that provides CRUD (Create, Read, Update, Delete) operations for managing Categories and Products. It uses Spring Boot, JPA (Hibernate), and MySQL as the database.
 
 *Features:-
 1) CRUD operations for Category and Product entities
